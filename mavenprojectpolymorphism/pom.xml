@@ -21,7 +21,7 @@
     <configuration>
      <archive>
       <manifest>
-       <mainClass>polymorph.Override</mainClass>
+       <mainClass>polymorph.Methodoverloading</mainClass>
       </manifest>
      </archive>
     </configuration>
